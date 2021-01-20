@@ -6,6 +6,9 @@ Front End Micro Project Built with HTML5 CSS3 and Vanilla JavaScript
 
 ## Screenshots
 
+<img width="817" alt="Screen Shot 2021-01-20 at 10 18 48 AM" src="https://user-images.githubusercontent.com/64296192/105217652-ff898280-5b08-11eb-80c5-bed9a6d969bc.png">
+
+
 ## Table of Contents
 
 * [Installation](#installation)
